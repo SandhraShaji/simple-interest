@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-interest/static/css/main.a03e263c.css",
+    "main.js": "/simple-interest/static/js/main.796bb03c.js",
+    "index.html": "/simple-interest/index.html",
+    "main.a03e263c.css.map": "/simple-interest/static/css/main.a03e263c.css.map",
+    "main.796bb03c.js.map": "/simple-interest/static/js/main.796bb03c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03e263c.css",
+    "static/js/main.796bb03c.js"
+  ]
+}
